@@ -6,4 +6,4 @@
 ## The Team
 - Coeman 577 - CEO
 - Mezmerizxd - CTO
--       1Dev - CDO/CAO
+- 1Dev - CDO/CAO
