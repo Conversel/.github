@@ -1,5 +1,10 @@
 # Conversel
 
+## Features / Todo
+- [ ] Add Friends
+- [ ] Create Servers
+- [ ] Join Servers
+
 ## Our Ambitions
 - World Domination
 
