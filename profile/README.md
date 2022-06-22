@@ -1,9 +1,15 @@
 # Conversel
 
-## Features / Todo
-- [ ] Add Friends
+## Todo - Server
+- [x] Add Friends
 - [ ] Create Servers
 - [ ] Join Servers
+- [ ] More checks for things like private channels
+
+## Todo - UI/UX
+- [ ] Add Friend
+- [ ] Create Server 
+- [ ] Join Server
 
 ## Our Ambitions
 - World Domination
@@ -12,3 +18,4 @@
 - Coeman 577 - CEO
 - Mezmerizxd - CTO
 - 1Dev - CDO/CAO
+- keith220 - Head of Development
