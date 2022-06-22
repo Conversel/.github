@@ -2,7 +2,7 @@
 
 ## Todo - Server
 - [x] Add Friends
-- [ ] Create Servers
+- [x] Create Servers
 - [ ] Join Servers
 - [ ] More checks for things like private channels
 
