@@ -1,5 +1,7 @@
 # Conversel
 
+## Temporarily down, currently re-making everything so it can operate at a larger scale.
+
 ## Todo - Server
 - Give me (Mezmerizxd) something to work on.
 
