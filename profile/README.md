@@ -7,7 +7,7 @@
 
 ## Todo - UI/UX
 - If anyone would like this position you must be age 17 or over 
-  with experience and previous projects that we can view/
+  with experience and previous projects that we can view
 
 ## Our Ambitions
 - World Domination
