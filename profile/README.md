@@ -15,6 +15,5 @@
 ## Our Ambitions
 - World Domination
 
-## The Team
-- Mezmerizxd - CTO
-- Coeman 577 - CEO
+## Developers
+- Mezmerizxd - Owner
