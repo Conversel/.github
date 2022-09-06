@@ -5,7 +5,6 @@
 ## Todo - Server Side
 - Give me (Mezmerizxd) something to work on.
 - SignUp: Verify the email is in the correct format (123@abc.com) not (123abccom)
-- User accounts: Setup the SQL database (add things like Tokens)
 
 ## Todo - UI/UX
 - If anyone would like this position you must be age 17 or over 
